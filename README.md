@@ -1,2 +1,2 @@
 # git-github
-My first update in a remote repository
+My first update in the remote repository :)
